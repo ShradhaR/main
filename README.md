@@ -25,7 +25,7 @@ One usability steps for DRide:-
 4. This interface can allow riders to select available options in his/her region to book a ride.
 5. DRide contract "BookRide" will check if rider's account has sufficient balance to make payment. After that ride is booked.
 6. After ride completion, payment has been released to Driver from Rider. 
-7. Both Driver and Rider can provide review to each other.
+
 
 Technical Details:
 DRide has been developed on Ethereum blockchain. 
@@ -39,4 +39,4 @@ b) Current location of driver, price per mile and limit (in miles) of how far he
 c) Review points: It will help rider to decide which driver to choose.
 3) BookRide: Checks if rider's account has sufficient balance to make payment. After that ride is booked and notified both Rider and Driver.
 4) Payment: Payment will be released to Driver.
-5) Reward: Both Driver and Rider can provide review to each other. 
+
